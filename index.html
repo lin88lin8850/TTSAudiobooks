@@ -1,0 +1,152 @@
+
+<html>	
+    <head>	
+      <meta charset="UTF-8">	
+      <title>Audio samples from "Fine-grained Prosody Modeling in Neural Speech Synthesis using ToBI Representation"</title>
+    </head>	
+    <body>	
+      <div>	
+        <article>	
+          <header>	
+            <h1>Audio samples from "Fine-grained Prosody Modeling in Neural Speech Synthesis using ToBI Representation"</h1>	
+          </header>	
+        </article>	
+  
+        <!-- <p><b>Paper: </b><a href="https://arxiv.org/abs/2010.11439">arXiv</a></p>	 -->
+        <p><b>Authors: </b>Yuxiang Zou, Shichao Liu, Xiang Yin, Haopeng Lin, Chunfeng Wang, Haoyu Zhang, Zejun Ma.</p>	
+  
+        <p><b>Abstract:</b>	
+          Benefiting from the great development of deep learning, modern neural text-to-speech (TTS) models can generate speech indistinguishable from natural speech. However, The generated utterances often keep an average prosodic style of the database instead of having rich prosodic variation. For pitchstressed languages, such as English, accurate intonation and stress are important for conveying semantic information. In this work, we propose a fine-grained prosody modeling method in neural speech synthesis with ToBI (Tones and Break Indices) representation. The proposed system consists of a text frontend for ToBI prediction and a Tacotron-based TTS module for prosody modeling. By introducing the ToBI representation, we can control the system to synthesize speech with accurate intonation and stress at syllable level. Compared with the two baselines (Tacotron and unsupervised method), experiments show that our model can generate more natural speech with more accurate prosody, as well as effectively control the stress, intonation, and pause of the speech.	
+   </p>	
+  
+
+        <h2>Controllability evaluation of speech synthesis backend</h2>	
+        <p><i>Sample from Table 2 in the paper.</i></p>
+        <p><b>Controllability evaluation: </b>under the given ground truth ToBI labels, test whether each ToBI feature is effectively reflected in generated speech.</p>
+        <p><b>Pitch accents </b>mark the stressed syllable of specific words that carry the most information in a sentence. The default is H* (high accent), L* (low accent), L*+H (a syllable which starts with a low accent and then rises), L+H* (again low-high on one syllable, but with the second part accented), and !H*(This H is pitched somewhat lower than the earlier one).</p>
+        <p><b>Boundary tones </b>describe the pitch trend at each full intonation phrase boundary. The default is H% (high tone) and L% (low tone).</p>
+        <p><b>Phrase accents </b>describe the pitch movement between the ultimate pitch accent and the boundary tone. The default is H- and L-.</p>
+        <table>		
+          <tbody>	
+            <tr><td colspan="6"><span>1a: Does Bob play basketball(H*) every(L*) day(L-H%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0087_1.wav" type="audio/wav"></audio></td>		
+            </tr>	
+            <tr><td colspan="6"><span>1b: Does Bob play basketball every(L*) day(L+H* H-H%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0087_2.wav" type="audio/wav"></audio></td>		
+            </tr>	
+            <tr><td colspan="6"><span>2a: Where is the washroom(H* L-L%), Do you know(H* L-L%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0078_1.wav" type="audio/wav"></audio></td>		
+            </tr>	
+            <tr><td colspan="6"><span>2b: Where(H*) is the washroom(H* H-L%), Do you know(L+H* H-H%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0078_2.wav" type="audio/wav"></audio></td>		
+            </tr>	
+            <tr><td colspan="6"><span>3a: Hey, I'm Jim(H* L-L%). And no(H* L-), I'm not from China(!H* L-L%). My grandparents are(L+H* H-), but I was born(H*) here(!H* L-L%). What about yourself(H* L-L%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0112_1.wav" type="audio/wav"></audio></td>		
+            </tr>	
+            <tr><td colspan="6"><span>3b: Hey(H* H-L%), I'm Jim(L*+H H-L%). And no(H* H-), I'm not(H*) from China(L-L%). My grandparents(H*) are(!H* L-), but I(H*) was born here(H* L-L%). What about yourself(H* L-L%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0112_2.wav" type="audio/wav"></audio></td>		
+            </tr>	
+            <!-- <tr><td colspan="6"><span>1: Hi(H*) there(H-), can I help you find(H*) anything(H-L%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0001_1.wav" type="audio/wav"></audio></td>		
+            </tr>	
+            <tr><td colspan="6"><span>2: Sorry(H* L-), we(H*) don't have yellow jeans(!H*) here(L-L%). Let me give you a recommendation(H* L-L%).</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0021_1.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>3: Is there anything(H*) here(L+H* H-) we didn't(H*) already know(L* H-H%)?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/EN_corpus_114836_1.wav" type="audio/wav"></audio></td>	
+            </tr>		
+            <tr><td colspan="6"><span>4: Pay in cash(L+H* H-) , by credit card(L+H* H-) or scan(H*) to pay(L-L%), you can choose(H*) one(L-L%).</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0054_1.wav" type="audio/wav"></audio></td>		
+            </tr>
+            <tr><td colspan="6"><span>6: A quiet day's fishing(H* L-), or eight(H*) hours in a cinema(L-) seeing the same(H*) film over(!H*) and over(!H*) again(L-L%), is usually as far(H*) as they get(L-L%).</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="GT-ToBI/badcase_0075_1.wav" type="audio/wav"></audio></td>		
+            </tr>		 -->
+          </tbody>	
+        </table>
+
+        <h2>Comparison among systems</h2>	
+        <p><i>Sample from Table 4 in the paper.</i></p>
+        <p><b>TACO: </b>the model architecture is the same with the Tacotron and the input features are simply composed of the labels of phoneme, lexical stress, and word boundary.</p>
+        <p><b>TP-DPE: </b>the unsupervised method. Phone-level prosodic features predicted from text, including phone duration, pitch and energy (DPE features), are used to realize prosody modeling.</p>
+        <p><b>TP-ToBI: </b>the proposed method. the ToBI-related labels are predicted from text using the proposed ToBI prediction frontend.</p>
+        <p><b>GT-ToBI: </b>the acoustic model and the input feature are the same as TP-ToBI, but the ToBI-related labels are manually revised from the results of ToBI prediction frontend.</p>
+        <table>	
+          <thead>	
+            <tr>	
+              <th>TACO</th><th>TP-DPE</th><th>TP-ToBI</th><th>GT-ToBI</th>
+            </tr>	
+          </thead>	
+          <tbody>	
+            <tr><td colspan="6"><span>1: What do you usually do in the afternoon?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000022.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000022.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000022.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000022.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>2: What are the man and the woman talking about?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000030.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000030.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000030.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000030.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>3: How high was the plane when the engine failed?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000031.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000031.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000031.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000031.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>4: Would you like some rice and beef?</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000148.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000148.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000148.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000148.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>5: What a nice vase it is!</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000319.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000319.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000319.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000319.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>6: How careful she is!</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000322.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000322.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000322.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000322.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>7: There are many fun places to see and things to do.</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000397.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000397.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000397.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000397.wav" type="audio/wav"></audio></td>	
+            </tr>	
+            <tr><td colspan="6"><span>8: They can grow so big, blocking all daylight, making it very dark and ominous standing under them.</span></td></tr>	
+            <tr>	
+              <td><audio controls=""><source src="TACO/EN_testset_000418.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-DPE/EN_testset_000418.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="TP-ToBI/EN_testset_000418.wav" type="audio/wav"></audio></td>	
+              <td><audio controls=""><source src="GT-ToBI/EN_testset_000418.wav" type="audio/wav"></audio></td>	
+            </tr>	
+          </tbody>	
+  
+      </div>	
+    </body>	
+  </html>	
+  
