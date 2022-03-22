@@ -1,0 +1,115 @@
+0	旁白	BV003_streaming	BV003Narrator	neutral	第二百八十三章，为金芝林贺！为叶会长贺。	1.2
+1	旁白	BV003_streaming	BV003Narrator	neutral	<speak>赵红光清楚，<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>随便一捏，他这个黄境高手就死了。</speak>	0.6
+2	旁白	BV003_streaming	BV003Narrator	neutral	他眼皮不受控制跳动，心里也有一丝恐惧，可还是挤出一股笑意：	1.2
+3	其他男	BV117_streaming	BV117DialogMale	neutral	“怎么？”	0.6
+4	其他男	BV117_streaming	BV117DialogMale	neutral	“要杀我？”	0.6
+5	旁白	BV003_streaming	BV003Narrator	neutral	赵红光喷出一口热气：	0.6
+6	其他男	BV117_streaming	BV117DialogMale	happy	“动手啊，你随便用力，就能一手捏死我。”	1.2
+7	其他男	BV117_streaming	BV117DialogMale	hate	“我死了，你就没有赵家这个后患了，你也可以为杨静萧报仇了。”	1.2
+8	其他男	BV117_streaming	BV117DialogMale	angry	“而且你今天不弄死我，我迟早会拿你身边人下手的。”	1.2
+9	其他男	BV117_streaming	BV117DialogMale	neutral	<speak>“<phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>是汪少看上的女人，我不便动，但<phoneme alphabet="py" ph="liu2 fu4 gui4">刘富贵</phoneme>，你爹，你妈，要随时小心出入。”</speak>	1.2
+10	其他男	BV117_streaming	BV117DialogMale	neutral	“不然分分钟会被车子撞死，对了，你还有一个跟你交好的小姨子…”	1.2
+11	其他男	BV117_streaming	BV117DialogMale	happy	“听说大学生来的？”	0.6
+12	其他男	BV117_streaming	BV117DialogMale	happy	“青春，可爱，还会卖萌，嘿嘿，是我的菜…”	0.6
+13	旁白	BV003_streaming	BV003Narrator	neutral	<speak>赵红光挑拨着<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>神经，随后吼叫一声：</speak>	0.6
+14	其他男	BV117_streaming	BV117DialogMale	angry	“废物，动我啊，杀我啊，你不是很牛吗？”	0.6
+15	其他男	BV117_streaming	BV117DialogMale	angry	“有本事捏死我啊。”	1.2
+16	其他男	BV117_streaming	BV117DialogMale	angry	“不敢杀我，你这个废物就放开我。”	1.2
+17	其他男	BV117_streaming	BV117DialogMale	angry	“我告诉你，今时不同往日了，你别想着韩南华他们支持你，他们早被汪少和霍家压死了。”	1.2
+18	其他男	BV117_streaming	BV117DialogMale	neutral	“今天，除了我赵红光这份礼物，不会有人给你祝贺，也不会有人给你站台。”	1.2
+19	其他男	BV117_streaming	BV117DialogMale	hate	“你喜欢就收下，不喜欢，老子拿回去自己玩…”	0.6
+20	旁白	BV003_streaming	BV003Narrator	neutral	<speak>赵红光猖狂无比，手指戳着<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>胸膛。</speak>	0.6
+21	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>手指微微一缩。</speak>	1.2
+22	通用大叔	BV125_streaming	BV125DialogMale	neutral	<speak>“<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>——”</speak>	0.6
+23	旁白	BV003_streaming	BV003Narrator	neutral	<speak>感受到<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>的杀气，<phoneme alphabet="py" ph="ye4 wu2 jiu3">叶无九</phoneme>和<phoneme alphabet="py" ph="shen3 bi4 qin2">沈碧琴</phoneme>齐齐喊道，语气带着说不出的担心。</speak>	0.6
+24	旁白	BV003_streaming	BV003Narrator	neutral	<speak>显然他们怕<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>一不小心伤害了赵红光。</speak>	0.6
+25	旁白	BV003_streaming	BV003Narrator	neutral	<speak>这么多人看着，还有无数视频，<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>一旦伤人，只怕牢底坐穿。</speak>	1.2
+26	叶凡	BV124_streaming	BV124DialogMale	neutral	“赵红光，你的礼物，我收下了。”	0.6
+27	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>挥手让独孤殇他们把杨静萧抬进去，随后目光冷冽看着赵红光：</speak>	0.6
+28	叶凡	BV124_streaming	BV124DialogMale	neutral	“谢谢你捧场。”	1.2
+29	其他男	BV117_streaming	BV117DialogMale	neutral	“你放心，我一定会给你回礼的。”	0.6
+30	旁白	BV003_streaming	BV003Narrator	neutral	他把赵红光列入死亡名单。	0.6
+31	旁白	BV003_streaming	BV003Narrator	neutral	赵红光眼皮直跳，口干舌燥吞了吞口水，想要说狠话却背后发冷，最终狼狈退到医馆对面。	1.2
+32	其他男	BV117_streaming	BV117DialogMale	sad	“卢小姐，对不起，我无能。”	0.6
+33	旁白	BV003_streaming	BV003Narrator	neutral	赵红光对着卢弯弯鞠躬：	0.6
+34	其他男	BV117_streaming	BV117DialogMale	neutral	<speak>“没有激怒<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>出手。”</speak>	1.2
+35	旁白	BV003_streaming	BV003Narrator	neutral	卢弯弯穿着短裙丝袜，剪着流行的齐刘海，脸上散淡淡的bb霜气息、眼线细细，乍一看去很清纯。	0.6
+36	旁白	BV003_streaming	BV003Narrator	neutral	但神情一冷却瞬间变了人似的。	1.2
+37	其他男	BV117_streaming	BV117DialogMale	angry	“没用的东西，开场戏都演不好！”	0.6
+38	旁白	BV003_streaming	BV003Narrator	neutral	<speak>卢弯弯给了赵红光一巴掌，随后站前一步高傲望向<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>：</speak>	1.2
+39	唐若雪	BV115_streaming	BV115DialogFemale	neutral	“不过没关系，金芝林今天注定关门。”	0.6
+40	旁白	BV003_streaming	BV003Narrator	neutral	<speak>几个香奈儿女伴掩嘴轻笑，看着<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>流露浓浓讥诮。</speak>	0.6
+41	旁白	BV003_streaming	BV003Narrator	neutral	一个吊丝，拿什么跟汪少他们叫板呢？	0.6
+42	其他男	BV117_streaming	BV117DialogMale	sad	“呜——”	1.2
+43	旁白	BV003_streaming	BV003Narrator	neutral	几乎同一个时刻，一辆红色宝马开了过来。	0.6
+44	旁白	BV003_streaming	BV003Narrator	neutral	它瞬间吸引了所有人目光。	0.6
+45	旁白	BV003_streaming	BV003Narrator	neutral	红色宝马很快停在医馆门口，车门打开，两道倩影从里面钻了出来。	0.6
+46	旁白	BV003_streaming	BV003Narrator	neutral	一黑，一白，一个成熟，一个青春，风格不同，但都非常赏心悦目。	0.6
+47	旁白	BV003_streaming	BV003Narrator	neutral	<speak>正是<phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>和<phoneme alphabet="py" ph="tang2 qi2 qi5">唐琪琪</phoneme>。</speak>	0.6
+48	唐若雪	BV115_streaming	BV115DialogFemale	neutral	“这两个美女是谁啊？”	1.2
+49	唐若雪	BV115_streaming	BV115DialogFemale	hate	“怎么有胆子给金芝林捧场啊？”	0.6
+50	唐若雪	BV115_streaming	BV115DialogFemale	hate	“是脑子进水，还是有大背景？”	1.2
+51	唐若雪	BV115_streaming	BV115DialogFemale	neutral	<speak>“那是唐家女儿，<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>做过上门女婿，估计念旧情过来…”</speak>	1.2
+52	唐若雪	BV115_streaming	BV115DialogFemale	hate	“长得这么漂亮，可惜没脑子，不知道汪家和霍家打压吗？”	1.2
+53	唐若雪	BV115_streaming	BV115DialogFemale	hate	<speak>“还想看大家族绝对碾压吊丝，没想到她们出现，让<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>捡到一点面子啊。”</speak>	0.6
+54	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>和<phoneme alphabet="py" ph="tang2 qi2 qi5">唐琪琪</phoneme>的出现，瞬间让周围气氛有些变化了。</speak>	0.6
+55	旁白	BV003_streaming	BV003Narrator	neutral	这两女走在红毯上，比网红还要网红。	0.6
+56	旁白	BV003_streaming	BV003Narrator	neutral	这气质！	0.6
+57	旁白	BV003_streaming	BV003Narrator	neutral	这容貌！	0.6
+58	旁白	BV003_streaming	BV003Narrator	neutral	这身材！	0.6
+59	旁白	BV003_streaming	BV003Narrator	neutral	<speak>比<phoneme alphabet="py" ph="huo4 zi3 yan1">霍紫烟</phoneme>和元画还要胜一分！</speak>	0.6
+60	旁白	BV003_streaming	BV003Narrator	neutral	最重要的是，汪家和霍家的绝对权威，被唐家姐妹裂出一丝缝隙。	0.6
+61	旁白	BV003_streaming	BV003Narrator	neutral	<speak>元画和<phoneme alphabet="py" ph="huo4 zi3 yan1">霍紫烟</phoneme>俏脸瞬间阴沉。</speak>	1.2
+62	其他女	BV115_streaming	BV115DialogFemale	scare	“要死了，要死了…”	0.6
+63	旁白	BV003_streaming	BV003Narrator	neutral	林七姨见状更是急的连连跺脚，恨不得冲上去掐死唐氏姐妹：	1.2
+64	唐琪琪	BV116_streaming	BV116DialogFemale	scare	<speak>“这是拉我们陪葬啊，<phoneme alphabet="py" ph="lin2 qiu1 ling2">林秋玲</phoneme>干什么吃的，连女儿都看不住，我要跟她们断绝关系，断绝关系。”</speak>	0.6
+65	旁白	BV003_streaming	BV003Narrator	neutral	<speak>她担心被<phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>姐妹牵连。</speak>	1.2
+66	唐琪琪	BV116_streaming	BV116DialogFemale	neutral	“姐夫，是不是很感动啊？”	0.6
+67	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 qi2 qi5">唐琪琪</phoneme>挽着<phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>把一个花篮放在医馆门口，巧笑倩兮：</speak>	0.6
+68	唐琪琪	BV116_streaming	BV116DialogFemale	happy	“我和姐姐可是冒着巨大风险给你站台噢。”	1.2
+69	唐琪琪	BV116_streaming	BV116DialogFemale	neutral	“今天过后，姐姐可能被赶出公司失业，我也不会有任何企业接收，搞不好连花呗都被取消。”	1.2
+70	唐琪琪	BV116_streaming	BV116DialogFemale	happy	“我们没饭吃，你可要养我们哦。”	0.6
+71	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 qi2 qi5">唐琪琪</phoneme>笑靥如花。</speak>	1.2
+72	叶凡	BV124_streaming	BV124DialogMale	neutral	“放心吧，我会养你们的。”	0.6
+73	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>对她笑了笑，随后又望向<phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>：</speak>	0.6
+74	叶凡	BV124_streaming	BV124DialogMale	neutral	“你不该来。”	1.2
+75	旁白	BV003_streaming	BV003Narrator	neutral	<speak>前晚他就叮嘱<phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>了，不要趟这一场浑水，毕竟有多深，<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>都不知道。</speak>	1.2
+76	唐若雪	BV115_streaming	BV115DialogFemale	neutral	“站在你的对立面，足足站了一年。”	0.6
+77	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>温柔一笑：</speak>	0.6
+78	唐若雪	BV115_streaming	BV115DialogFemale	neutral	“今天，就让我站在你身边吧。”	1.2
+79	旁白	BV003_streaming	BV003Narrator	neutral	<speak>说完之后，她就默默的站在<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>身边，俏脸带着一抹坚定。</speak>	0.6
+80	旁白	BV003_streaming	BV003Narrator	neutral	<speak>姗姗来迟的<phoneme alphabet="py" ph="lin2 qiu1 ling2">林秋玲</phoneme>看到这一幕当场晕了过去。</speak>	0.6
+81	唐琪琪	BV116_streaming	BV116DialogFemale	hate	“哟，大庭广众这么肉麻，你们要不要脸啊？”	1.2
+82	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 qi2 qi5">唐琪琪</phoneme>笑嘻嘻开口：</speak>	0.6
+83	唐琪琪	BV116_streaming	BV116DialogFemale	happy	“再说了，说这么多肉麻的话，还不如复合好了。”	1.2
+84	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 ruo4 xve3">唐若雪</phoneme>俏脸一红。</speak>	0.6
+85	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>伸手握住女人的手。</speak>	0.6
+86	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 wu2 jiu3">叶无九</phoneme>和<phoneme alphabet="py" ph="shen3 bi4 qin2">沈碧琴</phoneme>他们也都露出笑容，这也算是今天开业难得开心的一幕了。</speak>	1.2
+87	唐琪琪	BV116_streaming	BV116DialogFemale	happy	“开业了，开业了。”	0.6
+88	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 qi2 qi5">唐琪琪</phoneme>又抓起一串鞭炮点燃，然后往街对面扔了过去：</speak>	1.2
+89	唐琪琪	BV116_streaming	BV116DialogFemale	scare	“还有没有人来？”	0.6
+90	唐琪琪	BV116_streaming	BV116DialogFemale	scare	“没人来，我们吃饭了…”	0.6
+91	旁白	BV003_streaming	BV003Narrator	neutral	她没心没肺的闹着。	1.2
+92	其他女	BV115_streaming	BV115DialogFemale	hate	<speak>“这两个女人，怕是<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>唯一的顾客了。”</speak>	0.6
+93	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="huo4 zi3 yan1">霍紫烟</phoneme>娇哼了一声：</speak>	0.6
+94	其他女	BV115_streaming	BV115DialogFemale	hate	<speak>“<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>也真是可笑，为了挽回一点面子，不惜牺牲妻子和小姨子。”</speak>	1.2
+95	旁白	BV003_streaming	BV003Narrator	neutral	元画幽幽一笑：	1.2
+96	其他女	BV115_streaming	BV115DialogFemale	neutral	“是啊，一点意义都没有。”	1.2
+97	其他女	BV115_streaming	BV115DialogFemale	hate	“开业都半小时了，今天不会再有人来了，这戏没半点悬念，我想我们该离开了…”	0.6
+98	旁白	BV003_streaming	BV003Narrator	neutral	<speak>卢弯弯等十几个女孩也戏谑望向<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>。</speak>	0.6
+99	旁白	BV003_streaming	BV003Narrator	neutral	打肿脸充胖子，有意思吗？	0.6
+100	叶凡	BV124_streaming	BV124DialogMale	sad	“呜——”	1.2
+101	旁白	BV003_streaming	BV003Narrator	neutral	就在这时，街头又传来一阵汽车轰鸣声。	0.6
+102	旁白	BV003_streaming	BV003Narrator	neutral	接着，三辆载重十五吨，遮着帆布的大卡车，缓缓驶入街道，然后停在金芝林的门口。	0.6
+103	旁白	BV003_streaming	BV003Narrator	neutral	<speak>卢弯弯她们顿时讥笑不已，<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>还真是饥不择食，有头有脸的人不给他站台，就找卡车司机充门面。</speak>	0.6
+104	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="huo4 zi3 yan1">霍紫烟</phoneme>和元画也一脸嫌弃。</speak>	1.2
+105	叶凡	BV124_streaming	BV124DialogMale	neutral	“砰砰砰！”	0.6
+106	旁白	BV003_streaming	BV003Narrator	neutral	下一秒，三个西装革履的中年男子现身。	0.6
+107	旁白	BV003_streaming	BV003Narrator	neutral	他们双手作拱，高声喊起：	1.2
+108	叶凡	BV124_streaming	BV124DialogMale	neutral	“马氏集团，马家成…”	1.2
+109	叶凡	BV124_streaming	BV124DialogMale	neutral	“百花银行，钱胜火…”	1.2
+110	叶凡	BV124_streaming	BV124DialogMale	neutral	“千宝集团，韩南华…”	1.2
+111	叶凡	BV124_streaming	BV124DialogMale	neutral	“携币十亿，为金芝林贺！”	0.6
+112	叶凡	BV124_streaming	BV124DialogMale	neutral	“为叶会长贺！”	1.2
+113	旁白	BV003_streaming	BV003Narrator	neutral	卡车轰隆一声，十亿现金倾泻。	0.6
+114	旁白	BV003_streaming	BV003Narrator	neutral	漫天纸币。	1.2
