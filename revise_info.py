@@ -19,7 +19,7 @@ def get_info_data(info_fn):
             # 去除ssml信息
             text = re.sub(ssml_pattern, '', text) 
             assert len(text) > 0
-            new_line = f"{idx}\t{speaker_tag}\t{emotion_tag}\t{text}"
+            new_line = f"{idx}\t\t{speaker_tag}\t\t{emotion_tag}\t\t{text}"
             data.append(new_line)
 
     return data
@@ -37,5 +37,5 @@ for system in systems:
 
         save_fn = os.path.join(revised_info_dir, f"{cid}.json")
         with open(save_fn, "w") as f:
-            f.write("id\tspeaker_tag\temotion_tag\ttext\n")
+            f.write("id\t\tspeaker_tag\t\temotion_tag\t\ttext\n")
             f.write("\n".join(info_data))
