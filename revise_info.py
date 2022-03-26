@@ -37,5 +37,5 @@ for system in systems:
 
         save_fn = os.path.join(revised_info_dir, f"{cid}.json")
         with open(save_fn, "w") as f:
-            f.write("id\t\tspeaker_tag\t\temotion_tag\t\ttext\n")
+            f.write("id\tspeaker_tag\t\temotion_tag\t\ttext\n")
             f.write("\n".join(info_data))
