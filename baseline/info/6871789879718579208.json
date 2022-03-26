@@ -1,0 +1,116 @@
+0	旁白	BV003_streaming	BV003Narrator	neutral	第335章，唐楚楚要风光办宴。	1.2
+1	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>的伤不算严重，脸上的伤痕进行包扎处理后，在医院观察一晚上就回家了。</speak>	0.6
+2	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>亲自送她回家。</speak>	0.6
+3	旁白	BV003_streaming	BV003Narrator	neutral	唐家。	0.6
+4	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>一脸担心的问道：</speak>	0.6
+5	何艳梅	BV121_streaming	BV121DialogFemale	neutral	“楚楚，你这是怎么搞的啊，怎么才一晚上，就弄成这个样子？”	1.2
+6	何艳梅	BV121_streaming	BV121DialogFemale	neutral	“妈，没事。”	1.2
+7	何艳梅	BV121_streaming	BV121DialogFemale	neutral	“这位公子是？”	0.6
+8	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>目光停留在<phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>身上，见他长得英俊帅气，气度不凡，拉了拉<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>，小声问道。</speak>	0.6
+9	何艳梅	BV121_streaming	BV121DialogFemale	neutral	<speak>“阿姨，你好，我叫<phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>。”</speak>	1.2
+10	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>自我介绍，道：</speak>	0.6
+11	其他男	BV107_streaming	BV107DialogMale	neutral	“我是京都江家人，我家族企业无数，资产过万亿，就拿江家来说，这就是我们江家控股的集团。”	1.2
+12	何艳梅	BV121_streaming	BV121DialogFemale	surprise	“啊，就是那个市值万亿的江里集团吗？”	0.6
+13	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>惊呼出来。</speak>	0.6
+14	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>点头：</speak>	0.6
+15	其他男	BV107_streaming	BV107DialogMale	neutral	“是的，江里集团只不过是我江家旗下一家集团而已，我江家是真正的富可敌国。”	1.2
+16	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>早就把唐家人的情况打听清楚了。</speak>	0.6
+17	旁白	BV003_streaming	BV003Narrator	neutral	<speak>他知道<phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>爱财。</speak>	0.6
+18	其他男	BV107_streaming	BV107DialogMale	scare	“啊，江公子，快坐，楚楚，你还愣着干什么，还不快去给江公子沏茶。”	1.2
+19	唐楚楚	BV128_streaming	BV128DialogFemale	neutral	“是。”	0.6
+20	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>去沏茶。</speak>	0.6
+21	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>则热情的招呼<phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>。</speak>	0.6
+22	旁白	BV003_streaming	BV003Narrator	neutral	问这问那的。	0.6
+23	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>都从容的回答。</speak>	1.2
+24	唐楚楚	BV128_streaming	BV128DialogFemale	neutral	“江公子，喝茶，这次真的是谢谢你了，如果不是你，我还真不知道会遇到什么危险。”	0.6
+25	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>端着茶走来，一脸感激。</speak>	0.6
+26	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>微微摆手，道：</speak>	0.6
+27	其他男	BV107_streaming	BV107DialogMale	neutral	“没事，举手之劳而已。”	1.2
+28	何艳梅	BV121_streaming	BV121DialogFemale	neutral	“对了，楚楚，明天就是你二十八岁生日了，你打算在哪里举办生日宴会？”	0.6
+29	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>开口问道。</speak>	0.6
+30	其他男	BV107_streaming	BV107DialogMale	neutral	“我，我还没想好，简单一点就行了。”	1.2
+31	何艳梅	BV121_streaming	BV121DialogFemale	angry	“这怎么能行。”	0.6
+32	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>顿时就不乐意了，</speak>	0.6
+33	何艳梅	BV121_streaming	BV121DialogFemale	angry	“怎么能简单一点，这次我们要高调，拿出几千万来举办生日宴会，把江中的大人物都请来。”	1.2
+34	其他男	BV107_streaming	BV107DialogMale	surprise	“楚楚姑娘，明天你生日啊？”	0.6
+35	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>装着惊讶。</speak>	1.2
+36	唐楚楚	BV128_streaming	BV128DialogFemale	neutral	“嗯。”	0.6
+37	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>点着小脑袋。</speak>	0.6
+38	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 wu2 bie2">江无别</phoneme>笑着道：</speak>	0.6
+39	其他男	BV107_streaming	BV107DialogMale	neutral	<speak>“高调，必须得高调，阿姨说的对，咱们要办的风风光光，体体面面，让天下人都知道，<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>二十八岁了。”</speak>	1.2
+40	何艳梅	BV121_streaming	BV121DialogFemale	neutral	“对，就是这样。”	0.6
+41	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>笑的嘴都合不拢了。</speak>	1.2
+42	唐楚楚	BV128_streaming	BV128DialogFemale	sad	“那好吧。”	0.6
+43	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>也无奈的点头。</speak>	0.6
+44	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>拉着<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>，说道：</speak>	0.6
+45	何艳梅	BV121_streaming	BV121DialogFemale	neutral	“楚楚，咱们去唐家大别墅，把举办生日宴会的事告诉唐家。”	1.2
+46	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="he2 yan4 mei2">何艳梅</phoneme>开始张罗<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>生日的事。</speak>	0.6
+47	旁白	BV003_streaming	BV003Narrator	neutral	<speak>而<phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>则回到了帝王居，他躺在沙发上，不知道干什么了。</speak>	0.6
+48	旁白	BV003_streaming	BV003Narrator	neutral	<speak>以前还跟<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>在一起的时候，<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>就是他的全部，现在失去了<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>，他发现自己没什么事可做了，整天无精打采的。</speak>	0.6
+49	旁白	BV003_streaming	BV003Narrator	neutral	叮叮叮。	0.6
+50	旁白	BV003_streaming	BV003Narrator	neutral	门铃声响起。	0.6
+51	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>翻身爬起来，打开液晶电视，通过监控看到了大门口的情景。</speak>	0.6
+52	旁白	BV003_streaming	BV003Narrator	neutral	帝王居别墅门前，站着一名身穿红色衣裙，染着一头红色波浪卷发的女子。	1.2
+53	江辰	BV124_streaming	BV124DialogMale	neutral	“她怎么来了？”	0.6
+54	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>皱眉。</speak>	1.2
+55	许晴	BV122_streaming	BV122DialogFemale	neutral	<speak>“<phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>，你开门，我知道你在里面。”</speak>	0.6
+56	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>的声音传来。</speak>	0.6
+57	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>按了遥控器。</speak>	0.6
+58	旁白	BV003_streaming	BV003Narrator	neutral	帝王居的铁门打开。	0.6
+59	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>走了进来。</speak>	0.6
+60	旁白	BV003_streaming	BV003Narrator	neutral	进入了宛如宫殿般的帝王居。	0.6
+61	旁白	BV003_streaming	BV003Narrator	neutral	她走来，站在一旁，看着满桌子的烟灰，不由的皱眉，	0.6
+62	许晴	BV122_streaming	BV122DialogFemale	neutral	“你怎么回事啊，这是抽了多少啊？”	1.2
+63	江辰	BV124_streaming	BV124DialogMale	neutral	“随便坐。”	0.6
+64	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>一脸懒散的看了<phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>一眼。</speak>	0.6
+65	江辰	BV124_streaming	BV124DialogMale	neutral	“冰箱里有饮料，要喝什么自己拿。”	1.2
+66	许晴	BV122_streaming	BV122DialogFemale	angry	<speak>“<phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>，你能不能振作一点，不就是离个婚嘛，有什么大不了的，要是还放不下，那就去追啊，你看看你这样，成什么样？”</speak>	0.6
+67	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>恨铁不成钢的骂道。</speak>	0.6
+68	江辰	BV124_streaming	BV124DialogMale	hate	<speak>“你是南荒<phoneme alphabet="py" ph="hei1 long2">黑龙</phoneme>军总帅，你是<phoneme alphabet="py" ph="hei1 long2">黑龙</phoneme>，你是大夏守护战神，你看看你现在这个样子，有一点战神的样子吗？”</speak>	1.2
+69	许晴	BV122_streaming	BV122DialogFemale	neutral	<speak>“<phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>，你这是来看我笑话的吗，如果是的话，你已经看到了，请回。”</speak>	1.2
+70	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>坐了下来，将手中的挎包放在一旁，拿起桌上的纸巾，开始收桌上的烟灰。</speak>	0.6
+71	旁白	BV003_streaming	BV003Narrator	neutral	一边整理，一边说道：	1.2
+72	许晴	BV122_streaming	BV122DialogFemale	neutral	<speak>“明天是<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>二十八岁生日，<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>打算风风光光的举办生日宴会，地点都确定了，就在江中大酒店。”</speak>	1.2
+73	江辰	BV124_streaming	BV124DialogMale	neutral	“哦，是吗？”	0.6
+74	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>微微一愣后才想了起来。</speak>	0.6
+75	旁白	BV003_streaming	BV003Narrator	neutral	<speak>之前他是记得<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>生日的，只是发生了这么多事，他一时之间没想起来。</speak>	0.6
+76	江辰	BV124_streaming	BV124DialogMale	neutral	“嗯。”	1.2
+77	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>点头道：</speak>	0.6
+78	许晴	BV122_streaming	BV122DialogFemale	neutral	“请帖都给我送来了，我只是通知你一声，你去不去随便你。”	1.2
+79	江辰	BV124_streaming	BV124DialogMale	neutral	“算了，不去了。”	0.6
+80	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>一脸无精打采的说道：</speak>	0.6
+81	江辰	BV124_streaming	BV124DialogMale	neutral	“去了只会被数落，只会被看不起。”	1.2
+82	江辰	BV124_streaming	BV124DialogMale	angry	“谁让你以这个面目去了，不能用另外一幅面孔去吗？”	1.2
+83	江辰	BV124_streaming	BV124DialogMale	neutral	<speak>“那个<phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>已经死了，再也不会出现了。”</speak>	0.6
+84	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>微微摇头。</speak>	0.6
+85	旁白	BV003_streaming	BV003Narrator	neutral	<speak>从解散江龙集团那一刻起，那个面孔的<phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>就不会再出现。</speak>	0.6
+86	旁白	BV003_streaming	BV003Narrator	neutral	这个样子才是他真正的样子。	0.6
+87	旁白	BV003_streaming	BV003Narrator	neutral	现在的他才是最真实的他。	0.6
+88	旁白	BV003_streaming	BV003Narrator	neutral	又何必戴着面具做人。	1.2
+89	许晴	BV122_streaming	BV122DialogFemale	neutral	“对了…”	0.6
+90	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>想起了什么，问道：</speak>	0.6
+91	许晴	BV122_streaming	BV122DialogFemale	neutral	“南荒的事你知道吗？”	1.2
+92	江辰	BV124_streaming	BV124DialogMale	neutral	“嗯。”	0.6
+93	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>点头：</speak>	0.6
+94	江辰	BV124_streaming	BV124DialogMale	neutral	“知道，不过这很正常，过去十年，大夏跟边境诸多小国一直有武装冲突，这次二十八国只是小打小闹，不会发生大规模战斗。”	1.2
+95	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>将桌子整理干净后，坐了下来。</speak>	0.6
+96	江辰	BV124_streaming	BV124DialogMale	neutral	<speak>“<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>生日，你真的不去了吗，真的就这样放弃了吗？”</speak>	1.2
+97	江辰	BV124_streaming	BV124DialogMale	neutral	“那还能怎么样？”	0.6
+98	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>淡淡的开口说道：</speak>	0.6
+99	江辰	BV124_streaming	BV124DialogMale	neutral	“苦苦纠缠有用吗？”	1.2
+100	许晴	BV122_streaming	BV122DialogFemale	neutral	“真搞不懂你。”	0.6
+101	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>皱眉说道：</speak>	0.6
+102	许晴	BV122_streaming	BV122DialogFemale	sad	<speak>“你明明知道她喜欢<phoneme alphabet="py" ph="hei1 long2">黑龙</phoneme>，而你就是<phoneme alphabet="py" ph="hei1 long2">黑龙</phoneme>，却又以另外一个身份，以一个废物入赘到唐家。”</speak>	1.2
+103	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>无奈的说道：</speak>	0.6
+104	江辰	BV124_streaming	BV124DialogMale	sad	“最初我只是想报答她的救命之恩，只想用后半生守护她，后来因为一些事，我不得不用另外一个身份跟她接触，我本来是想表露身份的，可是又发生了很多事，很多人希望我死，我本想解决了一切后，再跟她说一切，再跟她举行婚礼。”	0.6
+105	江辰	BV124_streaming	BV124DialogMale	sad	“只是没想到，没能等到那一天了。”	1.2
+106	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="xv3 qing2">许晴</phoneme>也是深深叹息了一声。</speak>	1.2
+107	江辰	BV124_streaming	BV124DialogMale	neutral	“那你以后打算怎么办？”	0.6
+108	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>微微摇头。</speak>	0.6
+109	旁白	BV003_streaming	BV003Narrator	neutral	对于以后，他还真没什么打算。	0.6
+110	旁白	BV003_streaming	BV003Narrator	neutral	<speak>失去了<phoneme alphabet="py" ph="tang2 chu2 chu3">唐楚楚</phoneme>，他就好像是失去了人生目标，迷茫在十字路口，不知道应该朝哪个方向走了。</speak>	1.2
+111	江辰	BV124_streaming	BV124DialogMale	neutral	“走一步算一步吧，生活还是要继续，等解决了这些棘手的事，京都格局重新洗牌，国泰民安，再也没有奸臣祸害民族后，我想去世界各地走走。”	0.6
+112	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="jiang1 chen2">江辰</phoneme>真的很想隐退，什么都不管，什么都不问。</speak>	0.6
+113	旁白	BV003_streaming	BV003Narrator	neutral	可是他不能。	0.6
+114	旁白	BV003_streaming	BV003Narrator	neutral	大夏帝国看似很和平。	0.6
+115	旁白	BV003_streaming	BV003Narrator	neutral	可是京都朝堂上却风起暗涌。	1.2

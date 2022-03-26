@@ -1,0 +1,112 @@
+0	旁白	BV003_streaming	BV003Narrator	neutral	第七百四十四章，一拳。	1.2
+1	其他男	BV117_streaming	BV117DialogMale	neutral	“你在等我？”	0.6
+2	旁白	BV003_streaming	BV003Narrator	neutral	陈浩东今晚穿着一件中山装，脚下是一双布鞋，整个人气息缥缈，浑身上下透着一股大师气质。	0.6
+3	旁白	BV003_streaming	BV003Narrator	neutral	<speak>听到<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>这一句话，他微微一愣，随后饶有趣味地望过去。</speak>	0.6
+4	旁白	BV003_streaming	BV003Narrator	neutral	<speak>他想要看看<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>是有所倚仗，还是故作玄虚，只是根本查看不出来。</speak>	0.6
+5	旁白	BV003_streaming	BV003Narrator	neutral	<speak>这让陈浩东对<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>多了一丝欣赏。</speak>	0.6
+6	旁白	BV003_streaming	BV003Narrator	neutral	现在的年轻人，难得有这份淡定。	0.6
+7	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>走到茶几旁边，给自己倒了一杯水：</speak>	0.6
+8	叶凡	BV124_streaming	BV124DialogMale	neutral	“确实在等你！”	1.2
+9	叶凡	BV124_streaming	BV124DialogMale	neutral	“让你的手下都出来吧，躲在后面没什么意义。”	0.6
+10	旁白	BV003_streaming	BV003Narrator	neutral	他还顺势瞄了两侧走廊一眼，看不到什么，但能嗅到一抹凶险的气息。	1.2
+11	其他男	BV117_streaming	BV117DialogMale	neutral	“你等我来干什么呢？”	0.6
+12	旁白	BV003_streaming	BV003Narrator	neutral	陈浩东背负着双手，在大厅慢慢踱步起来，看似风轻云淡，实则查看有没有埋伏。	0.6
+13	旁白	BV003_streaming	BV003Narrator	neutral	同时，他打出一个手势，两侧走廊又闪现七八个男女。	0.6
+14	旁白	BV003_streaming	BV003Narrator	neutral	他们动作利索散开，一脸漠然地搜查起来，十几个房间全被踢开，门口也用手电扫视一番。	0.6
+15	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>淡淡一笑：</speak>	0.6
+16	叶凡	BV124_streaming	BV124DialogMale	neutral	“别搜了，没有埋伏，就我一个人。”	1.2
+17	旁白	BV003_streaming	BV003Narrator	neutral	很快，七八个陈氏高手返回陈浩东身边。	0.6
+18	旁白	BV003_streaming	BV003Narrator	neutral	其中一个瓜子脸女子低声一句：	0.6
+19	其他女	BV115_streaming	BV115DialogFemale	neutral	“大哥，没埋伏。”	1.2
+20	旁白	BV003_streaming	BV003Narrator	neutral	<speak>整个别墅，就如他们进来搜查后一样，除了陈氏高手，对手就只有<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>。</speak>	0.6
+21	旁白	BV003_streaming	BV003Narrator	neutral	<speak>她还冷眼瞥了<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>一眼：</speak>	0.6
+22	叶凡	BV124_streaming	BV124DialogMale	hate	“这小子故弄玄虚。”	1.2
+23	旁白	BV003_streaming	BV003Narrator	neutral	这女人长相不错，还穿着一身皮衣，把身材展现的淋漓尽致。	0.6
+24	旁白	BV003_streaming	BV003Narrator	neutral	只是眼高于顶。	1.2
+25	其他男	BV117_streaming	BV117DialogMale	neutral	“没有埋伏，没有机关，就你一人。”	0.6
+26	旁白	BV003_streaming	BV003Narrator	neutral	<speak>陈浩东笑着望向了<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>：</speak>	0.6
+27	其他男	BV117_streaming	BV117DialogMale	neutral	“你等我过来吃饭？”	1.2
+28	其他男	BV117_streaming	BV117DialogMale	angry	“我跟庞壮起冲突，坏了他借刀杀人的计划，还顺势挑起他跟南国人的恩怨，以及让你们找到夜明珠的痕迹…”	0.6
+29	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>不紧不慢的喝着水，还不忘记向陈浩东笑道：</speak>	0.6
+30	叶凡	BV124_streaming	BV124DialogMale	neutral	“为的就是把你这头港城之虎引出来。”	1.2
+31	其他男	BV117_streaming	BV117DialogMale	neutral	“其实我也可以去艾丽莎号找你，只是客场作战太多变数，所以还是让你主动找我好一点。”	0.6
+32	旁白	BV003_streaming	BV003Narrator	neutral	他笑容灿烂起来：	0.6
+33	其他男	BV117_streaming	BV117DialogMale	happy	“结果你真来了，只是比我想象中早了一点。”	1.2
+34	其他男	BV117_streaming	BV117DialogMale	neutral	“你是说，你跟庞壮他们的冲突，还有一连串风波，都是你有意为之？”	0.6
+35	旁白	BV003_streaming	BV003Narrator	neutral	陈浩东的笑容渐渐隐去，眸子多了一抹杀意：	0.6
+36	其他男	BV117_streaming	BV117DialogMale	hate	“目的就是让我介入此事？”	1.2
+37	其他男	BV117_streaming	BV117DialogMale	neutral	“当然！”	0.6
+38	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>轻轻摇晃着水杯没有隐瞒：</speak>	0.6
+39	叶凡	BV124_streaming	BV124DialogMale	neutral	<speak>“如不是我给了庞壮几个耳光，强吻<phoneme alphabet="py" ph="han2 zi3 qi1">韩子柒</phoneme>，庞壮他们怎会恨上我？”</speak>	0.6
+40	叶凡	BV124_streaming	BV124DialogMale	neutral	“我又怎会进入你的视野？”	1.2
+41	叶凡	BV124_streaming	BV124DialogMale	hate	“如不是我暗中援手帮助庞壮他们，又怎能打赢南国人，甚至割掉朴大杰的喉咙，加重你对我的重视？”	1.2
+42	叶凡	BV124_streaming	BV124DialogMale	hate	“如不是我刻意为之，你们怎能在地毯上找到夜明珠？”	0.6
+43	叶凡	BV124_streaming	BV124DialogMale	hate	“让你亲自来会一会我这个高手？”	0.6
+44	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>目光锐利的看着陈浩东：</speak>	0.6
+45	叶凡	BV124_streaming	BV124DialogMale	neutral	“我做这么多，就是要你出现。”	1.2
+46	叶凡	BV124_streaming	BV124DialogMale	neutral	“有点意思。”	0.6
+47	旁白	BV003_streaming	BV003Narrator	neutral	陈浩东哈哈大笑，还竖起了大拇指：	0.6
+48	其他男	BV117_streaming	BV117DialogMale	neutral	“回头一想，一连串冲突确实有点阴谋气息，有一只无形的手左右事情发展。”	1.2
+49	其他男	BV117_streaming	BV117DialogMale	neutral	“环环相扣，步步为营，比我年轻时厉害多了，长江后浪推前浪啊。”	1.2
+50	其他男	BV117_streaming	BV117DialogMale	neutral	“只是你这样布局又有什么意义呢？”	0.6
+51	旁白	BV003_streaming	BV003Narrator	neutral	他话锋一转：	0.6
+52	其他男	BV117_streaming	BV117DialogMale	neutral	“你想要对我做些什么呢？”	1.2
+53	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>没有半点掩饰：</speak>	0.6
+54	叶凡	BV124_streaming	BV124DialogMale	hate	“煞费这么多苦心，当然是想以最小代价杀你。”	1.2
+55	旁白	BV003_streaming	BV003Narrator	neutral	<speak>听到<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>要自己的命，陈浩东没有半点震惊，似乎早已猜到<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>的答案。</speak>	0.6
+56	旁白	BV003_streaming	BV003Narrator	neutral	<speak>他也没有慌乱，只是饶有兴趣的看着<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>：</speak>	0.6
+57	叶凡	BV124_streaming	BV124DialogMale	neutral	“虽然我承认你很强大，比起庞壮他们厉害十倍，心智也超出了我的想象。”	1.2
+58	叶凡	BV124_streaming	BV124DialogMale	hate	“可再多阴谋诡计，在强大的实力面前，也是不堪一击的。”	1.2
+59	叶凡	BV124_streaming	BV124DialogMale	hate	“别看你刚才气势如虹杀了我好几个手下，那不过是我猫捉老鼠的几个棋子。”	1.2
+60	叶凡	BV124_streaming	BV124DialogMale	hate	“别说我亲自对付你，就是我义妹陈玄霜她们出手，你也只会被她们乱刀砍死。”	0.6
+61	旁白	BV003_streaming	BV003Narrator	neutral	说话之间，他一扭脖子，咯咯作响，流露着莫大凶意。	0.6
+62	旁白	BV003_streaming	BV003Narrator	neutral	被称呼为陈玄霜的瓜子脸女人，反手拔出一把军刺开口：	0.6
+63	其他女	BV115_streaming	BV115DialogFemale	hate	“哥，别跟他废话了，让我一刀宰了他。”	1.2
+64	旁白	BV003_streaming	BV003Narrator	neutral	<speak>她一脸不屑看着<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>：</speak>	0.6
+65	其他女	BV115_streaming	BV115DialogFemale	hate	“一个毛头小子，喊着算计我哥，你配吗？”	1.2
+66	旁白	BV003_streaming	BV003Narrator	neutral	<speak>尽管<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>进来时连杀几名同伴，让她生出一丝意外，可她依然不觉得<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>能够对抗自己。</speak>	0.6
+67	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>没有理会陈玄霜，只是望着陈浩东笑道：</speak>	0.6
+68	叶凡	BV124_streaming	BV124DialogMale	hate	“你就不问问，你我无怨无仇，我为什么要杀你？”	1.2
+69	旁白	BV003_streaming	BV003Narrator	neutral	陈浩东反问一句：	0.6
+70	其他男	BV117_streaming	BV117DialogMale	neutral	“问你，你会说吗？”	1.2
+71	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>很认真地思虑一会回应：</speak>	0.6
+72	叶凡	BV124_streaming	BV124DialogMale	neutral	“会，不过不是现在，等你死的时候再告诉你。”	1.2
+73	其他男	BV117_streaming	BV117DialogMale	hate	“我死的时候？”	0.6
+74	其他男	BV117_streaming	BV117DialogMale	hate	“口气够大啊。”	0.6
+75	旁白	BV003_streaming	BV003Narrator	neutral	陈浩东大笑一声：	0.6
+76	其他男	BV117_streaming	BV117DialogMale	happy	“小伙子，我要告诉你一句，强龙难压地头蛇。”	1.2
+77	其他男	BV117_streaming	BV117DialogMale	neutral	“你还忘了一句。”	0.6
+78	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>一口喝完杯中水：</speak>	0.6
+79	叶凡	BV124_streaming	BV124DialogMale	neutral	“不是猛龙不过江！”	1.2
+80	其他男	BV117_streaming	BV117DialogMale	neutral	“口气真大。”	0.6
+81	旁白	BV003_streaming	BV003Narrator	neutral	<speak>在陈浩东露出玩味的戏谑笑容时，陈玄霜也眯起眼睛看着<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>：</speak>	0.6
+82	其他男	BV117_streaming	BV117DialogMale	hate	“你知道自己在说什么吗？”	1.2
+83	其他男	BV117_streaming	BV117DialogMale	hate	“杀东哥，十个你也不是对手，我一只手就能捏死你。”	1.2
+84	其他男	BV117_streaming	BV117DialogMale	angry	“你跪下来，砍一手，割掉舌头，我向东哥求情放你一马。”	0.6
+85	旁白	BV003_streaming	BV003Narrator	neutral	<speak>身为陈浩东的左膀右臂，陈玄霜见过太多大人物，<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>对于她来说就跟蚂蚁一样。</speak>	0.6
+86	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>把杯子一丢：</speak>	0.6
+87	叶凡	BV124_streaming	BV124DialogMale	neutral	“别废话了，动手吧。”	1.2
+88	其他女	BV115_streaming	BV115DialogFemale	angry	“找死！”	0.6
+89	旁白	BV003_streaming	BV003Narrator	neutral	<speak>陈玄霜再也无法忍耐，俏脸一寒就冲了上去，然后对着<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>就是惊天一拳。</speak>	0.6
+90	旁白	BV003_streaming	BV003Narrator	neutral	九成功力。	0.6
+91	旁白	BV003_streaming	BV003Narrator	neutral	<speak>她要打残<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>，再一刀一刀凌迟，要让所有人知道：</speak>	0.6
+92	旁白	BV003_streaming	BV003Narrator	neutral	冒犯东哥者，生不如死！	0.6
+93	旁白	BV003_streaming	BV003Narrator	neutral	陈浩东淡淡开口：	0.6
+94	其他男	BV117_streaming	BV117DialogMale	neutral	“别一拳打死了，还要拿去给南国人交代呢。”	1.2
+95	其他女	BV115_streaming	BV115DialogFemale	neutral	“嗖——”	0.6
+96	旁白	BV003_streaming	BV003Narrator	neutral	陈玄霜收回一成力道，可拳头依然杀意四射。	0.6
+97	旁白	BV003_streaming	BV003Narrator	neutral	气势陡然炸开，如同倾泻的洪水让人震惊。	0.6
+98	旁白	BV003_streaming	BV003Narrator	neutral	<speak>几个陈氏高手见状微微摇头，觉得<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>不死也要重伤。</speak>	1.2
+99	叶凡	BV124_streaming	BV124DialogMale	surprise	“太弱了！”	0.6
+100	旁白	BV003_streaming	BV003Narrator	neutral	<speak>谁知，<phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>眼皮子都不抬，冷哼一声，随后也是一拳轰出。</speak>	0.6
+101	旁白	BV003_streaming	BV003Narrator	neutral	拳头如风。	0.6
+102	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>一拳打在了陈玄霜的拳头上面。</speak>	0.6
+103	旁白	BV003_streaming	BV003Narrator	neutral	“轰！”	0.6
+104	旁白	BV003_streaming	BV003Narrator	neutral	拳头相碰，一阵闷响炸起。	0.6
+105	旁白	BV003_streaming	BV003Narrator	neutral	<speak><phoneme alphabet="py" ph="ye4 fan2">叶凡</phoneme>的力量透体而出，陈玄霜手臂上的衣服，啪啪啪碎裂。</speak>	0.6
+106	旁白	BV003_streaming	BV003Narrator	neutral	拳头关节也顷刻断裂，胳膊成麻花。	1.2
+107	其他女	BV115_streaming	BV115DialogFemale	sad	“啊——”	0.6
+108	旁白	BV003_streaming	BV003Narrator	neutral	随后，陈玄霜惨叫一声，不受控制的跌飞出去，撞翻六名同伴摔倒在地。	0.6
+109	旁白	BV003_streaming	BV003Narrator	neutral	汗如雨下。	0.6
+110	旁白	BV003_streaming	BV003Narrator	neutral	废了！	0.6
+111	旁白	BV003_streaming	BV003Narrator	neutral	陈玄霜俏脸瞬间煞白…	1.2
